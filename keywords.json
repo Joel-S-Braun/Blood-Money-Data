@@ -1,0 +1,28 @@
+{
+	"waffloid":"misc",
+	"abra cadabra":"misc",
+	"tottenham":"misc",
+	"n15":"misc",
+	"n17":"misc",
+	"north london":"misc",
+	"ai":"misc",
+	"this game":"misc",
+	"music":"misc",
+	"gamepass":"misc",
+	
+	"hack":"hack",
+	"exploit":"hack",
+	"fly":"hack",
+	"noclip":"hack",
+	"wall hack":"hack",
+	"free money":"hack",
+	
+	"glitch":"bug",
+	"broken":"bug",
+	"lag":"bug",
+	
+	"kill you":"threat",
+	"rape you":"threat",
+	"bully":"threat",
+	"stop":"threat"
+}
