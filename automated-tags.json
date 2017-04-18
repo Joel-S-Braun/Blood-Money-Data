@@ -1,7 +1,7 @@
-{
-	[1]:'%s HEISTER',
-	[2]:'%s SOLDIER', 
-	[3]:'%s LIEUTENANT', 
-	[4]:'%s GENERAL' 
-	[5]:'ELITE %s' 
-}
+[
+	'%s HEISTER',
+	'%s SOLDIER', 
+	'%s LIEUTENANT', 
+	'%s GENERAL' 
+	'ELITE %s' 
+]
