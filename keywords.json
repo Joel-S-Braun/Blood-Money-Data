@@ -9,6 +9,8 @@
 	"this game":"misc",
 	"music":"misc",
 	"gamepass":"misc",
+	"expensive":"misc",
+	"kurva":"misc",
 	
 	"hack":"hack",
 	"exploit":"hack",
@@ -16,13 +18,17 @@
 	"noclip":"hack",
 	"wall hack":"hack",
 	"free money":"hack",
+	"hax":"hack"
 	
 	"glitch":"bug",
 	"broken":"bug",
 	"lag":"bug",
+	"bug":"bug",
 	
 	"kill you":"threat",
 	"rape you":"threat",
 	"bully":"threat",
-	"stop":"threat"
+	"stop":"threat",
+	"idiot":"threat",
+	"retard":"threat"
 }
