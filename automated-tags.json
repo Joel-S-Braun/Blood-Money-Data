@@ -1,7 +1,7 @@
 [
-	'%s HEISTER',
-	'%s SOLDIER', 
-	'%s LIEUTENANT', 
-	'%s GENERAL' 
-	'ELITE %s' 
+	"%s HEISTER",
+	"%s SOLDIER", 
+	"%s LIEUTENANT", 
+	"%s GENERAL",
+	"ELITE %s"
 ]
