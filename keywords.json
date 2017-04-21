@@ -26,9 +26,9 @@
 	"bug":"bug",
 	
 	"kill you":"threat",
-	"rape you":"threat",
+	"rape":"threat",
 	"bully":"threat",
-	"stop":"threat",
+	"suicide":"threat",
 	"idiot":"threat",
 	"retard":"threat"
 }
