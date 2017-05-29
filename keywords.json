@@ -11,6 +11,8 @@
 	"gamepass":"misc",
 	"expensive":"misc",
 	"kurva":"misc",
+	"2pac":"misc",
+	"tupac":"misc",
 	
 	"hack":"hack",
 	"exploit":"hack",
@@ -30,5 +32,7 @@
 	"bully":"threat",
 	"stop":"threat",
 	"idiot":"threat",
-	"retard":"threat"
+	"retard":"threat",
+	"cancerous":"threat",
+	"autistic":"threat"
 }
