@@ -1,10 +1,10 @@
 [
-	"%s SOLDIER",
-	"%s HEISTER",
-	"%s LIEUTENANT",
-	"%s COMMANDER",
-	"%s GENERAL",
-	"LORD %s",
-	"ELITE %s",
-	"%s GODFATHER"
+	"%s [N]",
+	"%s [I]",
+	"%s [II]",
+	"%s [III]",
+	"%s [IV]",
+	"%s [V]",
+	"%s [VI]",
+	"%s [VII]"
 ]
